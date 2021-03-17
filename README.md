@@ -3,7 +3,7 @@
 😄 Pronouns: She/Her
 
 👩🏽‍💻 Android Developer Lead [@kobeapps](https://github.com/kobeapps) <br/>
-📢 Community Leader [@androiddevbr](https://github.com/androiddev) & [@androidbh](https://github.com/androidbh) <br/>
+📢 Community Leader [@androiddevbr](https://github.com/androiddevbr) & [@androidbh](https://github.com/androidbh) <br/>
 💚 Creator of [UaiDroid](https://www.instagram.com/uaidroid/) - Android dev content for beginners<br/>
 🤔 I’m currently learning about leadership & management and improving my android development skills
 
