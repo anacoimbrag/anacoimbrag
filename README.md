@@ -3,16 +3,11 @@
 😄 Pronouns: She/Her
 
 👩🏽‍💻 Head of Egineering [@kobeapps](https://github.com/kobeapps) <br/>
-📢 Community Leader [@androiddevbr](https://github.com/androiddevbr) & [@androidbh](https://github.com/androidbh) <br/>
-💚 Creator of [UaiDroid](https://www.instagram.com/uaidroid/) - Android dev content for beginners<br/>
-🤔 I’m currently learning about leadership & management and improving my android development skills
-
-### Contributions 🚀
-👯 I’m looking to collaborate on *android* projects, mostly the ones with *social impact*. <br/>
-💬 Ask me about Android & Mobile development, digital products, innovations and interaction design.
+📢 Technology & Entrepreneurship mentor [ADPList](https://adplist.org/mentors/ana-coimbra-gomes) & [Campus Mobile](https://www.institutoclaro.org.br/campus-mobile/) <br/>
+🤔 I’m currently learning about leadership & product management
 
 ### Get in touch 📫 
 
-🌎 [Site](http://anacoimbra.dev/) <br/>
+🌎 [Portfolio](http://anacoimbra.tech/) <br/>
 🤖 [Twitter](https://twitter.com/anacoimbrag) <br/>
 💼 [LinkedIn](https://www.linkedin.com/in/anacoimbrag/) <br/>
